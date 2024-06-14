@@ -23,7 +23,7 @@ if(age > 0) {
     // Now we will change the value of both the variable
     let accountEmail = "ayush2498@gmail.com"
     var accountPassword = "ayush#2498"
-
+ 
     //we will print this on console
     console.log(`accountEmail, ${accountEmail}`)
     console.log(`accountPassword, ${accountPassword}`)
